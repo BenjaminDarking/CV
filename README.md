@@ -1,54 +1,58 @@
-## Your Name
+## Benjamin Darking
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I am a full stack software engineer with experience in Ruby, Javascript and Python. The project I'm most proud of is was a program that a machine learning algorithm to identify bots, thier culsters and fake news sites on Twitter. We used Python, GraphDB (Neo4J), PostgresSQL and React.
+I love problem solving, working in tech gives me the oppouriunity to do this on a daily basis whilst working with exciting tech.
+
+## Tech skills
+    Ruby, Javascript, React, Rspec, Capybara, Python, GraphDB, Neo4J, Html, CSS, PostgreSQL, Jasmine.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Adaptive learning
 
-#### This Skill
+Through my Legal experience, running a Company and Makers I had to learn and use a wide range skills and knowledge. Each of these areas requires different approaches and techniques to learn, understand and implement. 
 
-- Experience
-- Achievements
-- Evidence
 
-#### Another Skill
+#### Excellent Communicator
+
+In my previous role as Company Director I had to communicate effectivly to clients, buisness partners, suppliers and workers to achieve our goals for the Company
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Test Driven Development
+
+#### Analitycal thinking
+Coming from a law background I learned how to break down problems, think critially and interupt information and solve the problem. 
+
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2019 to Septmeber 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### BPP Law School
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- LPC - qulaified to practice law
+- Law Society Member
 
-#### Any other qualifications
+#### University of Brighton 
 
-That in some arguable way make you a better software developer or well-rounded person
+- Law with Business 
+- 2.2 (Unwell during last year of the course)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
-
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**Nest Brighton Limited**   
+*Company Director*  
+- Working with clients 
+- Leading a team 
+- Problem Solving 
+- Learning and adapting to requirements
+- Legal requirements 
 
 ## Hobbies
 
