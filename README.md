@@ -16,7 +16,7 @@ I love problem solving, working in tech gives me the opportunity to do this dail
   <tr>
     <td>Pry</td>
     <td>An app to identify and track bots on Twitter, their clusters and fake news sites they promote</td>
-    <td> <img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png" alt="python" style="width:50px;height:50px;> Python, Neo4j, PostgreSQL, React, Heroku, HTML, CSS</td>
+    <td> <img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png" alt="python" width="50" height="60"> Python, Neo4j, PostgreSQL, React, Heroku, HTML, CSS</td>
    <td>Pytest</td>
   </tr>
   <tr>
