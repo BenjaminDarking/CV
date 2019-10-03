@@ -6,6 +6,20 @@
 I am a full-stack software engineer with experience in Ruby, Javascript and Python. The project I'm most proud of is was a program that a machine-learning algorithm to identify bots, their clusters and fake news sites on Twitter. We used Python, GraphDB (Neo4J), PostgresSQL and React.
 I love problem solving, working in tech gives me the opportunity to do this daily whilst working with exciting tech.
 ***
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Used</th>
+    <th>Testing Tech</th>
+  </tr>
+  <tr>
+    <td>Pry</td>
+    <td>An app to identify and track bots on Twitter, their clusters and fake news sites they promote</td>
+    <td>Python, Neo4j, PostgreSQL, React, Heroku.</td>
+   <td>Pytest</td>
+  </tr>
+</table>
 ## Tech skills
  Ruby, Javascript, React, Rspec, Capybara, Python, GraphDB, Neo4J, Html, CSS, PostgreSQL, Jasmine.
 ***
