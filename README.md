@@ -1,10 +1,10 @@
-![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2017%2F05%2F06%2F10%2F50%2Fconcept-2289498_960_720.jpg&imgrefurl=https%3A%2F%2Fpixabay.com%2Fillustrations%2Fconcept-cube-pattern-arrangement-2289498%2F&docid=biUohvqrjAsxAM&tbnid=25ln-Q8mc3fBMM%3A&vet=10ahUKEwiZrcqS3P_kAhXOXRUIHcFpACgQMwh8KAMwAw..i&w=960&h=301&bih=649&biw=1440&q=header%20pattern&ved=0ahUKEwiZrcqS3P_kAhXOXRUIHcFpACgQMwh8KAMwAw&iact=mrc&uact=8)
+<img src="banner.jpg" alt="banner">
 ## Benjamin Darking
 ***
 
 I am a full-stack software engineer with experience in Ruby, Javascript and Python. The project I'm most proud of is was a program that a machine-learning algorithm to identify bots, their clusters and fake news sites on Twitter. We used Python, GraphDB (Neo4J), PostgresSQL and React.
 I love problem solving, working in tech gives me the opportunity to do this daily whilst working with exciting tech.
-
+***
 ## Tech skills
  Ruby, Javascript, React, Rspec, Capybara, Python, GraphDB, Neo4J, Html, CSS, PostgreSQL, Jasmine.
 
