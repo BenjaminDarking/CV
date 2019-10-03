@@ -8,7 +8,7 @@ I love problem solving, working in tech gives me the opportunity to do this dail
 ***
 ## Tech skills
  Ruby, Javascript, React, Rspec, Capybara, Python, GraphDB, Neo4J, Html, CSS, PostgreSQL, Jasmine.
-
+***
 ## Skills
 
 #### Adaptive learning
@@ -26,8 +26,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Analytical thinking
 Coming from a law background I learned how to break down problems, think critically and interpret information and solve the problem. 
-
-
+***
 ## Education
 
 #### Makers Academy (May 2019 to Septmeber 2019)
@@ -46,7 +45,7 @@ Coming from a law background I learned how to break down problems, think critica
 
 - Law with Business 
 - 2.2 (Unwell during last year of the course)
-
+***
 ## Experience
 
 **Nest Brighton Limited** 
