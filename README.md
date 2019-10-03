@@ -16,8 +16,8 @@ I love problem solving, working in tech gives me the opportunity to do this dail
   <tr>
     <td>Pry</td>
     <td>An app to identify and track bots on Twitter, their clusters and fake news sites they promote</td>
-    <td> <img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png" alt="python" width="50" height="60"> Python, Neo4j, PostgreSQL, React, Heroku, HTML, CSS</td>
-   <td>Pytest</td>
+    <td> <img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png" alt="python" width="50" height="60">, <img src="https://cdn.imgbin.com/10/11/14/imgbin-neo4j-graph-database-logo-organization-wechat-load-graph-r9gvPuwdcBd96ZZ9gGt4q5JCe.jpg" alt="neo4j" width="100" height="50">, <img src="https://cdn.imgbin.com/1/19/6/imgbin-postgresql-object-relational-database-oracle-database-freebsd-icon-HWh0mLUb4LAXGzJKXJdv4KSSi.jpg" alt="postgresql" width="50" height="60">, <img src="https://cdn.imgbin.com/20/2/6/imgbin-react-javascript-webbylab-computer-icons-angularjs-github-VmAruA4LkTwTWmd7QMBKhxdrE.jpg" alt="react" width="50" height="60">, <img src="https://www.pngfind.com/pngs/m/337-3378411_svg-vector-heroku-logo-hd-png-download.png" alt="heroku" width="100" height="50">, <img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-html-5-icon.png" alt="heroku" width="50" height="50">, <img src="https://png.pngtree.com/png-vector/20190413/ourlarge/pngtree-vector-css-icon-png-image_944074.jpg" alt="heroku" width="50" height="50"></td>
+   <td><img src="https://discoversdkcdn.azureedge.net/runtimecontent/companyfiles/6866/3180/thumbnail.png?v131172083090582194" alt="heroku" width="50" height="50"></td>
   </tr>
   <tr>
     <td>Thermostat</td>
