@@ -16,12 +16,23 @@ I love problem solving, working in tech gives me the opportunity to do this dail
   <tr>
     <td>Pry</td>
     <td>An app to identify and track bots on Twitter, their clusters and fake news sites they promote</td>
-    <td>Python, Neo4j, PostgreSQL, React, Heroku.</td>
+    <td>Python, Neo4j, PostgreSQL, React, Heroku, HTML, CSS</td>
    <td>Pytest</td>
   </tr>
+  <tr>
+    <td>Thermostat</td>
+    <td>A thermostat app with weather api</td>
+    <td>Javascript, Sinatra, HTML, CSS, JQuery</td>
+   <td>Jasmine</td>
+  </tr>
+  <tr>
+    <td>Bliss</td>
+    <td>A small clone of AirBnB that allows users to post and request properties</td>
+    <td>Ruby, HTML, CSS</td>
+   <td>RSpec, Capybara</td>
+  </tr>
 </table>
-## Tech skills
- Ruby, Javascript, React, Rspec, Capybara, Python, GraphDB, Neo4J, Html, CSS, PostgreSQL, Jasmine.
+
 ***
 ## Skills
 
