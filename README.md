@@ -1,6 +1,7 @@
 <img src="banner.jpg" alt="banner">
 
-## Benjamin Darking
+## Benjamin Darking  <a href="https://www.linkedin.com/in/benjamin-darking-3386a22a/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="linkedin" width="25px" height="25px"></a>
+
 ***
 
 I am a full-stack software engineer with experience in Ruby, Javascript and Python. The project I'm most proud of is was a program that a machine-learning algorithm to identify bots, their clusters and fake news sites on Twitter. We used Python, GraphDB (Neo4J), PostgresSQL and React.
