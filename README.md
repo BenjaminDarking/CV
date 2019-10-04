@@ -4,7 +4,7 @@
 ***
 
 I am a full-stack software engineer with experience in Ruby, Javascript and Python. The project I'm most proud of is was a program that a machine-learning algorithm to identify bots, their clusters and fake news sites on Twitter. We used Python, GraphDB (Neo4J), PostgresSQL and React.
-I love problem solving, working in tech gives me the opportunity to do this daily whilst working with exciting tech.
+I love problem solving, working in tech gives me the opportunity to do this daily whilst working with exciting tech.                           
 ***
 <table>
   <tr>
@@ -88,5 +88,6 @@ Coming from a law background I learned how to break down problems, think critica
  - Starting and running a business had a steep learning curve! There were a lot of issues that needed to be understood and implemented from the start and arise as we grew.
 - Legal requirements 
  - I was required to make sure we complied with a lot of legal requirements, this took a lot of planning, organization and execution. 
+
 
 
