@@ -14,22 +14,22 @@ I love problem solving, working in tech gives me the opportunity to do this dail
     <th>Testing Tech</th>
   </tr>
   <tr>
-    <td>Pry</td>
+    <td><a href="https://github.com/BenjaminDarking/project_pry" target="_blank">Botter</a></td>
     <td>An app to identify and track bots on Twitter, their clusters and fake news sites they promote</td>
-    <td> <img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png" alt="python" width="50" height="60"> <img src="https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/neo4j_logo-1024x410.png" alt="neo4j" width="90" height="50">, <img src="https://warlord0blog.files.wordpress.com/2018/02/best-postgresql-hosting.png" alt="postgresql" width="90" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" alt="react" width="50" height="50"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--K2q0A5SX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2elgd5zp07wkeilkna63.png" alt="heroku" width="50" height="50"> <img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-html-5-icon.png" alt="html" width="50" height="50"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" alt="css" width="40" height="45"></td>
+    <td> <div align="center"><img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png" alt="python" width="50" height="50"> <img src="https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/neo4j_logo-1024x410.png" alt="neo4j" width="90" height="50">, <img src="https://warlord0blog.files.wordpress.com/2018/02/best-postgresql-hosting.png" alt="postgresql" width="90" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" alt="react" width="50" height="50"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--K2q0A5SX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2elgd5zp07wkeilkna63.png" alt="heroku" width="45" height="45"> <img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-html-5-icon.png" alt="html" width="50" height="50"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" alt="css" width="40" height="45"></div></td>
    <td><img src="https://discoversdkcdn.azureedge.net/runtimecontent/companyfiles/6866/3180/thumbnail.png?v131172083090582194" alt="pytest" width="50" height="50"></td>
   </tr>
   <tr>
-    <td>Thermostat</td>
+    <td><a href="https://github.com/BenjaminDarking/Thermostat" target="_blank">Thermostat</a></td>
     <td>A thermostat app with weather api</td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="50" height="50"> <img src="https://www.kylembrown.com/wp-content/uploads/2013/11/logo.png" alt="sinatra" width="90" height="50"> <img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-html-5-icon.png" alt="html" width="50" height="50"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" alt="css" width="40" height="45"> </td>
+    <td><div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="45" height="45"> <img src="https://www.kylembrown.com/wp-content/uploads/2013/11/logo.png" alt="sinatra" width="90" height="50"> <img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-html-5-icon.png" alt="html" width="50" height="50"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" alt="css" width="40" height="45"></div> </td>
    <td><img src="https://miro.medium.com/max/1050/1*e0hDmiO7rx40JfodzPPKGA.png" alt="jasmine" width="100" height="50"></td>
   </tr>
   <tr>
-    <td>Bliss</td>
+    <td><a href="https://github.com/BenjaminDarking/bliss-makers" target="_blank">Bliss</a></td>
     <td>A small clone of AirBnB that allows users to post and request properties</td>
-    <td><img src="https://keyua.org/media/blog_images/ruby-logo_optimized.png" alt="ruby" width="50" height="50"> <img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-html-5-icon.png" alt="html" width="50" height="50"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" alt="css" width="40" height="45"></td>
-   <td><img src="https://rspec.info/images/logo.png" alt="rspec" width="40" height="40"> <img src="https://www.fsainz.com/img/capybara.png" alt="capybara" width="90" height="50"></td>
+    <td><div align="center"><img src="https://keyua.org/media/blog_images/ruby-logo_optimized.png" alt="ruby" width="95" height="60"> <img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-html-5-icon.png" alt="html" width="50" height="50"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" alt="css" width="40" height="45"></div></td>
+   <td><img src="https://rspec.info/images/logo.png" alt="rspec" width="40" height="40"> <img src="https://www.fsainz.com/img/capybara.png" alt="capybara" width="90" height="40"></td>
   </tr>
 </table>
 
@@ -56,6 +56,8 @@ Coming from a law background I learned how to break down problems, think critica
 
 #### Makers Academy (May 2019 to Septmeber 2019)
 
+- Full stack development
+- Independent learner and problem solver
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript, Python, GraphDB, 
