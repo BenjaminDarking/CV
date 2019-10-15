@@ -77,16 +77,13 @@ Coming from a law background I learned how to break down problems, think critica
 
 **Nest Brighton Limited** 
 *Company Director* 
-- Working with clients
- - From initial meetings with clients to find out their ideas and goals for the project, to then working closely with them during the project and making sure they are happy with the work at the end of the project my communication skills had to be at a very high level. 
-- Leading a team 
- - Being in charge of a team of workers, both in-house and external contractors, to ensure projects were brought in not only on budget but on time as well. 
-- Problem Solving 
- - Whether this was a high-level problem with how we ran the business or a specific problem with a project, I would work with my team to solve these.
-- Learning and adapting to requirements
- - Starting and running a business had a steep learning curve! There were a lot of issues that needed to be understood and implemented from the start and arise as we grew.
-- Legal requirements 
- - I was required to make sure we complied with a lot of legal requirements, this took a lot of planning, organization and execution. 
+-	Budgeting for the company and individual projects
+-	Leading our teams on projects
+-	Communicating with suppliers, customers and external contractors 
+-	Legal compliance for company and its employees 
+-	Strategic planning and problem solving 
+-	Advertising and promotion for the company
+ 
 
 
 
